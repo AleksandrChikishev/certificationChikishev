@@ -1,0 +1,15 @@
+C:\Users\Александр Чикишев\Desktop\certification\bin\Debug\net6.0\certification.exe
+C:\Users\Александр Чикишев\Desktop\certification\bin\Debug\net6.0\certification.deps.json
+C:\Users\Александр Чикишев\Desktop\certification\bin\Debug\net6.0\certification.runtimeconfig.json
+C:\Users\Александр Чикишев\Desktop\certification\bin\Debug\net6.0\certification.dll
+C:\Users\Александр Чикишев\Desktop\certification\bin\Debug\net6.0\certification.pdb
+C:\Users\Александр Чикишев\Desktop\certification\obj\Debug\net6.0\certification.csproj.AssemblyReference.cache
+C:\Users\Александр Чикишев\Desktop\certification\obj\Debug\net6.0\certification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр Чикишев\Desktop\certification\obj\Debug\net6.0\certification.AssemblyInfoInputs.cache
+C:\Users\Александр Чикишев\Desktop\certification\obj\Debug\net6.0\certification.AssemblyInfo.cs
+C:\Users\Александр Чикишев\Desktop\certification\obj\Debug\net6.0\certification.csproj.CoreCompileInputs.cache
+C:\Users\Александр Чикишев\Desktop\certification\obj\Debug\net6.0\certification.dll
+C:\Users\Александр Чикишев\Desktop\certification\obj\Debug\net6.0\refint\certification.dll
+C:\Users\Александр Чикишев\Desktop\certification\obj\Debug\net6.0\certification.pdb
+C:\Users\Александр Чикишев\Desktop\certification\obj\Debug\net6.0\certification.genruntimeconfig.cache
+C:\Users\Александр Чикишев\Desktop\certification\obj\Debug\net6.0\ref\certification.dll
